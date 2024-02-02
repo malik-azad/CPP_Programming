@@ -1,2 +1,2 @@
-# C-Programming
-Programs and logics in C++
+# C++ Programming
+C++ Programs and Study material 
