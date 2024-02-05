@@ -29,4 +29,4 @@ int main()
   
 }
  
-// This code is made by Malik Azad
+// by Malik Azad
